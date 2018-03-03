@@ -11,11 +11,11 @@
 
 ### Relevant Prior Literatures
 
-> 1. (M.Telgarsky) Neural networks and rational functions 
-https://arxiv.org/pdf/1706.03301.pdf
-Main Thesis : "As a final piece of the story, note that the conversion between rational functions and ReLU networks is more seamless if instead one converts to rational networks, meaning neural networks where each activation function is a rational
+> 1. (M.Telgarsky) Neural networks and rational functions <br/> https://arxiv.org/pdf/1706.03301.pdf
+'''
+"As a final piece of the story, note that the conversion between rational functions and ReLU networks is more seamless if instead one converts to rational networks, meaning neural networks where each activation function is a rational
 function."
-
+'''
 ### Refer to
 1. https://arxiv.org/pdf/1708.02691.pdf
 
