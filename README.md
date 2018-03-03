@@ -23,3 +23,5 @@ https://en.wikipedia.org/wiki/Learnable_function_class
 ### Refer to
 1. https://arxiv.org/pdf/1708.02691.pdf
 
+
+$\Bbb N$
