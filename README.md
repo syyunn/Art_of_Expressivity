@@ -2,7 +2,7 @@
 # Why is deep-learning so rich of Expressivty?
 
 ### On Representation Power of Neural Network
-> Borrowing a researcher's comment: "How deep-learning work so well still in its infancy." | This project reveals any relevant issues on Expressivity of Deep-Learning with reproducible codes and its visualization
+> Before start, I would like to borrow a researcher's comment- How deep-learning work so well still in its infancy.. Yes, We still lack of theoretical understanding on defining mathematically about what i neural nets' expressivity. This defintion is necessary and valuable since the clear definition over it will provides useful guidelines to our decision which neural network will we willing to use.
 
 ----
 
