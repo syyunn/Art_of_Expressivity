@@ -7,7 +7,7 @@
 ----
 
 ### What is this repository for?
-> This repo intends to contrive an **efficient and convenient answer** to the question: "How complex or Which neural architecture is required to solve the given task/problem?"  
+> This repo intends to contrive an **efficient and convenient answer** to the question: "Which form of neural architecture is required to solve the given task/problem?"  
 
 ### Relevant Literatures
 
