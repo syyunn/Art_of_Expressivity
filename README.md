@@ -9,7 +9,7 @@
 ### What is this repository for?
 > This repo intends to contrive an **efficient and convenient answer** to the question: "How complex or Which neural architecture is required to solve the given task/problem?"  
 
-### Relevant Prior Literatures
+### Relevant Literatures
 
 > 1. (M.Telgarsky) Neural networks and rational functions https://arxiv.org/pdf/1706.03301.pdf <br/>
 '''
@@ -17,7 +17,12 @@
 function."
 '''
 
-> 2. 
+
+### Must Read Article 
+> 1. What is Function Class?
+https://en.wikipedia.org/wiki/Learnable_function_class
+
+
 ### Refer to
 1. https://arxiv.org/pdf/1708.02691.pdf
 
