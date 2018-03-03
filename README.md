@@ -1,14 +1,15 @@
 
 # Why is deep-learning so rich of Expressivty?
 
-## On Representational Power of Neural Network
+### On Representation Power of Neural Network
 > Borrowing a researcher's comment: "How deep-learning work so well still in its infancy." | This project reveals any relevant issues on Expressivity of Deep-Learning with reproducible codes and its visualization
 
+----
 
-## What is this repository for?
+### What is this repository for?
 > This repo intends to contrive an **efficient and convenient answer** to the question: "How complex or Which neural architecture is required to solve the given task/problem?"  
 
-## Relevant Prior Literatures
+### Relevant Prior Literatures
 
 > 1. (M.Telgarsky) Neural networks and rational functions 
 https://arxiv.org/pdf/1706.03301.pdf
