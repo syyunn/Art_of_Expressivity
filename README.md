@@ -47,3 +47,6 @@ A. Pinkus, Approximation theory of the MLP model in neural networks, Acta Numeri
 # On Art of Computability/Trainability 
 A. Blum and R. L. Rivest, Training a 3-node neural network is np-complete, in Advances in
 Neural Information Processing Systems, 1989, pp. 494–501.
+
+# Topological Understanding 
+http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
