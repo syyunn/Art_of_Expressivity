@@ -43,3 +43,7 @@ Frequency principle: Fourier analysis sheds light on deep neural networks
 # Special Case of MLP
 A. Pinkus, Approximation theory of the MLP model in neural networks, Acta Numerica, 8
 (1999), pp. 143–195.
+
+# On Art of Computability/Trainability 
+A. Blum and R. L. Rivest, Training a 3-node neural network is np-complete, in Advances in
+Neural Information Processing Systems, 1989, pp. 494–501.
