@@ -35,3 +35,8 @@ Automation and Computing, 14 (2017), pp. 503–519.
 P. Grohs, F. Hornung, A. Jentzen, and P. Von Wurstemberger, A proof that artificial
 neural networks overcome the curse of dimensionality in the numerical approximation of
 black-scholes partial differential equations, arXiv preprint arXiv:1809.02362, (2018).
+
+
+# On the apsect of apprximatied target function's frequency 
+Frequency principle: Fourier analysis sheds light on deep neural networks
+
