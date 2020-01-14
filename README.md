@@ -40,3 +40,6 @@ black-scholes partial differential equations, arXiv preprint arXiv:1809.02362, (
 # On the apsect of apprximatied target function's frequency 
 Frequency principle: Fourier analysis sheds light on deep neural networks
 
+# Special Case of MLP
+A. Pinkus, Approximation theory of the MLP model in neural networks, Acta Numerica, 8
+(1999), pp. 143–195.
